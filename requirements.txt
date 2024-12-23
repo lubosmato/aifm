@@ -1,0 +1,11 @@
+langchain~=0.3.13
+langchain-community~=0.3.13
+tqdm~=4.67.1
+beautifulsoup4~=4.12.3
+playwright~=1.49.1
+html2text~=2024.2.26
+markdownify~=0.14.1
+langchain-huggingface~=0.1.2
+faiss-gpu~=1.7.2
+xformers
+langchain_experimental~=0.3.4
